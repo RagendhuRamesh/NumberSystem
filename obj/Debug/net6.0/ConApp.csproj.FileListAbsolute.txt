@@ -1,0 +1,14 @@
+C:\Users\Ragendhu\source\repos\Phase4\ConApp\ConApp\bin\Debug\net6.0\ConApp.exe
+C:\Users\Ragendhu\source\repos\Phase4\ConApp\ConApp\bin\Debug\net6.0\ConApp.deps.json
+C:\Users\Ragendhu\source\repos\Phase4\ConApp\ConApp\bin\Debug\net6.0\ConApp.runtimeconfig.json
+C:\Users\Ragendhu\source\repos\Phase4\ConApp\ConApp\bin\Debug\net6.0\ConApp.dll
+C:\Users\Ragendhu\source\repos\Phase4\ConApp\ConApp\bin\Debug\net6.0\ConApp.pdb
+C:\Users\Ragendhu\source\repos\Phase4\ConApp\ConApp\obj\Debug\net6.0\ConApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ragendhu\source\repos\Phase4\ConApp\ConApp\obj\Debug\net6.0\ConApp.AssemblyInfoInputs.cache
+C:\Users\Ragendhu\source\repos\Phase4\ConApp\ConApp\obj\Debug\net6.0\ConApp.AssemblyInfo.cs
+C:\Users\Ragendhu\source\repos\Phase4\ConApp\ConApp\obj\Debug\net6.0\ConApp.csproj.CoreCompileInputs.cache
+C:\Users\Ragendhu\source\repos\Phase4\ConApp\ConApp\obj\Debug\net6.0\ConApp.dll
+C:\Users\Ragendhu\source\repos\Phase4\ConApp\ConApp\obj\Debug\net6.0\refint\ConApp.dll
+C:\Users\Ragendhu\source\repos\Phase4\ConApp\ConApp\obj\Debug\net6.0\ConApp.pdb
+C:\Users\Ragendhu\source\repos\Phase4\ConApp\ConApp\obj\Debug\net6.0\ConApp.genruntimeconfig.cache
+C:\Users\Ragendhu\source\repos\Phase4\ConApp\ConApp\obj\Debug\net6.0\ref\ConApp.dll
